@@ -1,7 +1,7 @@
 {
-  "name": "firebase-extensions",
+  "name": "ABM-XMD",
   "version": "1.0.0",
-  "description": "Repository of sample Firebase Extensions.",
+  "description": "ABM-XMD WHATSAPP BOT.",
   "private": true,
   "scripts": {
     "format": "prettier --write \"**/*.{js,md,yml,ts,json,yaml}\"",
@@ -19,8 +19,8 @@
     "generate-readmes": "lerna run --parallel generate-readme",
     "prepare": "husky install"
   },
-  "repository": "",
-  "author": "Firebase (https://firebase.google.com/)",
+  "repository": "https://github.com/Blaq-boy101/ABM-XMD",
+  "author": "ʙʟᴀǫ-ʙᴏʏ",
   "license": "Apache-2.0",
   "bugs": {
     "url": ""
